@@ -1,0 +1,1 @@
+// clothingManager.js
